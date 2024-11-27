@@ -1,0 +1,20 @@
+Year;Season;Average Temperature °C;Humidity (%);Health Issue;Number of Cases;Treatment Cost (USSD);Region
+2020;Winter;5;70;Flu;1500;20 000;North
+2020;Spring;15;55;Allergies;1000;15 000;North
+2020;Summer;25;60;Heatstroke;500;10 000;North
+2020;Fall;10;65;cold;1200;18 000;North
+2021;Winter;4;75;Flu;1800;22 000;North
+2021;Spring;17;60;Allergies;1100;16 000;North
+2021;Summer;28;55;Heatstroke;600;11 000;North
+2021;Fall;12;68;cold;1300;19 000;North
+2022;Winter;6;72;Flu;1700;21 000;North
+2022;Spring;18;58;Allergies;1200;17 000;North
+2022;Summer;27;53;Heatstroke;500;12 000;North
+2022;Fall;8;64;cold;1400;20 000;North
+2023;Winter;3;78;Flu;1600;23 000;North
+2023;Spring;14;62;Allergies;1050;15 500;North
+2023;Summer;26;57;Heatstroke;650;12 500;North
+2023;Fall;9;69;cold;1250;18 500;North
+;;;;;;;
+;;;;;;;
+;;;;;;;
